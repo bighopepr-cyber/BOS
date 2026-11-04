@@ -127,18 +127,18 @@ Setiap pack mencakup minimum 19 topik yang diwajibkan AGENT.md: overview, functi
 
 | Pack | Lokasi | Fokus kepemilikan | Status |
 |---|---|---|---|
-| Core System | `documentation/07-modules/core/` | Organization, Identity, RBAC, data scope, workflow, notification, audit, documents/files, numbering, custom fields, configuration, import/export | PLANNED |
-| HRM / HRIS | `documentation/07-modules/hrm/` | Employee lifecycle, recruitment, attendance, leave, payroll, performance, training | PLANNED |
-| Finance & Accounting | `documentation/07-modules/finance-accounting/` | Ledger, AR/AP, cash/bank, expense, budget, reporting | PLANNED |
-| CRM | `documentation/07-modules/crm/` | Leads, contacts/customers, pipeline, interactions | PLANNED |
-| Sales Management | `documentation/07-modules/sales/` | Quotation, sales order, discounts, tax, invoice handoff | PLANNED |
-| Project Management | `documentation/07-modules/project-management/` | Projects, tasks, planning, time, project finance | PLANNED |
-| Collaboration | `documentation/07-modules/collaboration/` | Announcements, discussions, messaging, calendar, shared documents, activity | PLANNED |
-| Inventory Management | `documentation/07-modules/inventory/` | Products, warehouses, stock movement, transfer, adjustment, valuation | PLANNED |
-| Point of Sale | `documentation/07-modules/pos/` | Terminal, shift, checkout, payment, receipt, returns/refunds, closing | PLANNED |
-| Learning Management System | `documentation/07-modules/lms/` | Courses, enrollment, content, assessment, certification, progress | PLANNED |
-| Analytics & Reporting | `documentation/07-modules/analytics-reporting/` | Dashboards, KPIs, query/read model, reports and exports | PLANNED |
-| System Administration | `documentation/07-modules/system-administration/` | Installation, configuration, users/modules, queues, scheduler, health, backup, updates | PLANNED |
+| Core System | `documentation/07-modules/core/` | Organization, Identity, RBAC, data scope, workflow, notification, audit, documents/files, numbering, custom fields, configuration, import/export | DRAFT |
+| HRM / HRIS | `documentation/07-modules/hrm/` | Employee lifecycle, recruitment, attendance, leave, payroll, performance, training | DRAFT |
+| Finance & Accounting | `documentation/07-modules/finance-accounting/` | Ledger, AR/AP, cash/bank, expense, budget, reporting | DRAFT |
+| CRM | `documentation/07-modules/crm/` | Leads, contacts/customers, pipeline, interactions | DRAFT |
+| Sales Management | `documentation/07-modules/sales/` | Quotation, sales order, discounts, tax, invoice handoff | DRAFT |
+| Project Management | `documentation/07-modules/project-management/` | Projects, tasks, planning, time, project finance | DRAFT |
+| Collaboration | `documentation/07-modules/collaboration/` | Announcements, discussions, messaging, calendar, shared documents, activity | DRAFT |
+| Inventory Management | `documentation/07-modules/inventory/` | Products, warehouses, stock movement, transfer, adjustment, valuation | DRAFT |
+| Point of Sale | `documentation/07-modules/pos/` | Terminal, shift, checkout, payment, receipt, returns/refunds, closing | DRAFT |
+| Learning Management System | `documentation/07-modules/lms/` | Courses, enrollment, content, assessment, certification, progress | DRAFT |
+| Analytics & Reporting | `documentation/07-modules/analytics-reporting/` | Dashboards, KPIs, query/read model, reports and exports | DRAFT |
+| System Administration | `documentation/07-modules/system-administration/` | Installation, configuration, users/modules, queues, scheduler, health, backup, updates | DRAFT |
 
 ## Baseline dan Isu Terbuka
 
